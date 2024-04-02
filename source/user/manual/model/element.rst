@@ -54,6 +54,7 @@ The following subsections contain information about **$eleType** and the number 
    :maxdepth: 1
 
    elements/elasticBeamColumn
+   elements/ModElasticBeam
    elements/ElasticBeamColumnElementWithStiffnessModifiers
    elements/ElasticTimoshenkoBeamColumnElement
    elements/BeamWithHingesElement
@@ -121,6 +122,7 @@ The following subsections contain information about **$eleType** and the number 
    elements/BeamColumnJoint
    elements/ElasticTubularJoint
    elements/Joint2D
+   elements/Inno3DPnPJoint
 
 9. Link Elements
 
